@@ -64,11 +64,9 @@
 <br/>  
 
 
-<<<<<<< HEAD
+
 ## Projects: 
-=======
-## Projects:
->>>>>>> 502db69b4d11ca86af5c18452bc0cba2372b4f8f
+
 
 
 ### Quiz ❓  
