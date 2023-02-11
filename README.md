@@ -64,7 +64,7 @@
 <br/>  
 
 
-## Connect with me  
+## Projects: 
 
 
 ### Quiz ❓  
@@ -131,7 +131,7 @@ Kepper is a simple and convenient tool for taking notes and organizing your thou
 
 
 
-### Grocery List   
+### Grocery List 🍒  
 Experience the power of **JavaScript** with a simple **CRUD app!** Create, Read, Update and Delete data with ease using vanilla JavaScript. Test your skills and try it out now. Unleash the full potential of JavaScript with this basic yet essential application. Give it a go today!"
 
 **[Demo](https://bobxm.github.io/2/)**  
