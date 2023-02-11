@@ -64,7 +64,7 @@
 <br/>  
 
 
-## Connect with me  
+## Projects:
 
 
 ### Quiz ❓  
