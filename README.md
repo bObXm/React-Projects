@@ -9,7 +9,7 @@
 - All projects are created with the latest version of React, **React 18.**  
   
 
-- All projects are deployed so press the **Demo** button to see them in action.  
+- All projects are **deployed** so press the **Demo** button to see them in action.  
   
 
 - After that you can check the code for every project from the folder list above.  
