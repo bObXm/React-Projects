@@ -69,6 +69,30 @@
 
 ## Projects: 
 
+### AirBnb Clone 🏡
+Create a dynamic vacation rental marketplace with our Airbnb clone, combining the power of **React** and **Node.js**. Whether you're a traveler searching for your ideal stay or a property owner looking to capitalize on your space, this application caters to all your needs.Discover a vast array of listings, complete with high-quality photos and comprehensive descriptions.
+
+**Key Features:**
+
+**Frontend:**
+
+Enjoy a seamless user interface, crafted with **React**.
+Immerse yourself in visually appealing and responsive design, thanks to **Tailwind CSS**.
+Easily explore listings through an **interactive map interface**.
+
+
+**Backend:**
+
+A robust backend server, built on **Node.js**, efficiently handles requests and data management.
+Utilize the **Express** framework for streamlined route handling.
+Secure user authentication through **JSON Web Tokens (JWT).**
+**MongoDB** with **Mongoose** manages user data, property listings, and booking details.
+Easily upload property photos with **Multer** for efficient image handling.
+Store property images and assets using **AWS S3.**
+
+**[Demo](https://project-airbnb-clone.vercel.app/)**  
+
+
 
 
 ### Quiz ❓  
