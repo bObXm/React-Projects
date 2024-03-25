@@ -94,6 +94,15 @@ Store property images and assets using **AWS S3.**
 
 
 
+### Jobster 👨‍💼
+Is a dynamic **React** app enhanced by **Redux Toolkit** for streamlined **CRUD operations** on job listings. Users need an account to access its full features, including job listings management and customization. The app uses **Axios** for efficient data **fetching** and **React Router 6** for seamless navigation.
+The interface is enriched with **react-icons** and **styled-components** for a polished look, while **react-toastify** provides user-friendly notifications. **Moment** is utilized for date handling, crucial for managing application deadlines. Data visualization is powered by **recharts**, offering insightful analytics on job searches.
+Incorporating **normalize.css** ensures consistent styling across browsers. Jobster stands out as a comprehensive tool for job search management, offering a blend of functionality and aesthetics.
+
+**[Demo](https://jobster-best-jobs.netlify.app/landing)**  
+
+
+
 
 ### Quiz ❓  
 This **React app** allows you to test your skills in a fun and interactive way by **fetching** questions from a remote source using the powerful **Axios library**. The use of the **useContext hook** makes it easy to manage and share data between different components, improving the overall performance and organization of the codebase. Simply select a category and answer the questions to see how well you can do.  Whether you're looking to enhance your knowledge for work or personal growth, this app is a great resource that is sure to help you achieve your goals. So, why wait? Give it a try today and see how you stack up! 
